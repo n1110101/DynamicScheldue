@@ -1,0 +1,7 @@
+<system runtime="2000">
+
+<task name="task1" period="100" priority="2" duration="15"/>
+<task name="task2" period="195" priority="1" duration="20"/>
+<task name="task3" period="250" priority="3" duration="30"/>
+
+</system>
